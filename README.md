@@ -1,2 +1,24 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=414337&assignment_repo_type=GroupAssignmentRepo)
-Complete your formatted designated resume here
+## Education
+
+ABC University | Ph.D. in Statistics | MA in Behavioral Economics
+XYZ University | BS in Mathematics, Minor in Computer Science
+
+## Of Note
+
+Data and Analytics Tools/Languages:
+* Spark
+* SparkR
+* R
+* Python
+* Scala
+* Hive
+* SQL
+* SAS
+* Tableau
+* SPSS
+* Hadoop
+* Stata
+* Google Analytics
+* Amazon Web Services
+
+Publications and Presentations: Available at mariatannerphdportfolio.com
